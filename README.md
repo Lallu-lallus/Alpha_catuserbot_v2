@@ -15,11 +15,10 @@ A simple Telegram userbot based on Telethon .
 [![GitHub forks](https://img.shields.io/github/forks/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/fork)
 [![GitHub stars](https://img.shields.io/github/stars/sandy1709/catuserbot?&style=flat-square&logo=github)](https://github.com/sandy1709/catuserbot/stargazers)
 
+##Alpha_catuserbot deploy
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/Alpha_catuserbot_v2)
 
-## How to deploy catuserbot
-### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mr-confused/nekopack)
 
 ### Self host
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
